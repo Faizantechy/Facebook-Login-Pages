@@ -238,18 +238,20 @@ form {
 @media (max-width: 805px) {
   .login-form {
     width: 60%;
+    margin-top: 1rem;
   }
 
   .login-form input {
     width: 100%;
   }
-}
 
-@media (max-width: 805px) {
   .Container {
     text-align: center;
+
   }
 }
+
+
 
 @media (max-width: 616px) {
   .profile-cards {
@@ -260,7 +262,7 @@ form {
 
   .card {
     width: 70%;
-    height: 60vh;
+    height: 70vh;
   }
 
   .card img {
