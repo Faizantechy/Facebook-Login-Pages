@@ -305,6 +305,7 @@ form {
   .card {
     width: 80%;
     height: 40vh;
+    background-color: red;
   }
 
   .card img {
