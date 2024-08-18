@@ -304,7 +304,7 @@ form {
 @media (min-width: 393px) and (max-width: 852px) {
   .card {
     width: 80%;
-    height: 50vh;
+    height: 30vh;
   }
 
   .card img {
